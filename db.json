@@ -2810,6 +2810,10 @@
   ],
   "favourites": [
     {
+      "id": "user-1",
+      "giftData": []
+    },
+    {
       "id": "user-6",
       "giftData": [
         {
