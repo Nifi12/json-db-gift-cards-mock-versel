@@ -2649,6 +2649,18 @@
       "profilePic": "https://lh3.googleusercontent.com/a/ACg8ocK-2HUuje-SOMfRYTQuHUEjJyEXTP6c8a8BgkwaeZETLw=s96-c",
       "region": "eu",
       "startedWorking": 0
+    },
+    {
+      "id": "user-7",
+      "coins": 11000,
+      "division": "Design",
+      "region": "eu",
+      "userName": "Maksym Shturma",
+      "birthDay": 1995,
+      "startedWorking": 2018,
+      "email": "maksym.shturma@nixs.com",
+      "prevPurchase": [],
+      "profilePic": "https://pbs.twimg.com/media/F22XeUyWQAAMAAO?format=jpg&name=medium"
     }
   ],
   "suggestions": [
@@ -2732,6 +2744,10 @@
           }
         }
       ]
+    },
+    {
+      "id": "user-7",
+      "notificationMessages": []
     }
   ],
   "boughtGifts": [
@@ -2841,6 +2857,10 @@
           "giftName": "WOG Auto 200 UAH"
         }
       ]
+    },
+    {
+      "id": "user-7",
+      "giftData": []
     }
   ]
 }
